@@ -1,0 +1,2 @@
+This repository contains the information about the diabetes prediction from medical research project. Intially submitted as the part of the course requirement (final project) for BDS 765, this project explores the machine learning algorithm/approach
+utilizing classification models like Random Forest, SVM  etc. to predict the instances of diabetes. This repository includes the dataset (.csv), code (.ipynb) and report (pdf)
